@@ -1,0 +1,16 @@
+#page-header > nav > ul > li {
+    display: grid;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+body > * {
+    padding: 1rem;
+}
+
+body {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-template-areas:
+    gap: 1rem;
+}
